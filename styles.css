@@ -1,0 +1,19 @@
+
+
+#header{
+	background-color: black;
+	color: white;
+	width: 36%;
+	font-size: 3vh;
+	border-radius: 5px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 24%;
+
+}
+#click-btn{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
